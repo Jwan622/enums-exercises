@@ -29,16 +29,16 @@ You should perform the exercises in the order below:
 
 * `map`
 * `select`
+* `find` (aka `detect`)
+* `sort_by`
+* `count`
 * `reject`
+* `reduce`
 * `any?`
 * `all?`
 * `none?`
 * `one?`
 * `group_by`
-* `find`
-* `count`
-* `sort_by`
-* `reduce`
 * `zip`
 
 You should perform the pattern test first, and then the test.
@@ -193,24 +193,6 @@ We recommend you...
 * Run the `map_test.rb` and solve the same exercise
 * Repeat for each matching pair of exercises
 * Commit your solutions after finishing each file
-
-## Work Order
-
-You'll find the exercises in `exercises/` and we recommend working in this order:
-
-* `map`
-* `select`
-* `reject`
-* `any?`
-* `all?`
-* `none?`
-* `one?`
-* `group_by`
-* `find`
-* `count`
-* `sort_by`
-* `reduce`
-* `zip`
 
 ## License
 
