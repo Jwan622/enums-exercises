@@ -2,10 +2,10 @@
 
 ## Setup
 
-[Fork](https://github.com/JumpstartLab/enums-exercises/fork) and clone the `enums-exercises` repository.
+Fork this repo then cd into the directory.
+Your commands will look something like this:
 
 ```bash
-$ cd ~/turing/1module/
 $ git clone git@github.com:USERNAME/enums-exercises.git
 $ cd enums-exercises
 ```
@@ -53,8 +53,7 @@ can type:
 ```bash
 $ ruby exercises/map_pattern_test.rb
 ```
-
-and start making those skipped tests pass.
+You should see some failures and skipped tests. Start making those skipped tests pass.
 
 ## Contributing Patches
 
